@@ -1,0 +1,2 @@
+# pyHuffmanCompress
+用python简单实现利用哈夫曼树对文件进行压缩，里面有测试例子以及详细代码
